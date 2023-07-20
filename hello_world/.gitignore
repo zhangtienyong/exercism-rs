@@ -1,0 +1,15 @@
+# Ignore compiled output
+target/
+
+# Ignore editor-specific files
+/.vscode/
+/.idea/
+/.vs/
+
+# Ignore build artifacts
+Cargo.lock
+
+# Ignore OS or editor-generated files
+.DS_Store
+*.swp
+*~
